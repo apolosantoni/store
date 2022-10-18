@@ -1,5 +1,10 @@
-# Store
+# Sobre a Store
 
+Aprendendo mais sobre Node Js utilizando React e Angular para desenvolvimento de uma loja vitual dinamica com sistema de pagamento online fornecido pela stripe.com.
+Como foco é entender a passagem de solicitação e a utilização dos componentes e modelos de dados, neste projeto nao ha sistema de login ou formas para registrar interesses por localstorage. Acessando uma api de dados fakestorareapi.com pode-se consumir dados para estudar layouts e funcinalidades limitadas como filtros por categoria e quantidade de produtos a serem exibidos.
+
+
+# Default note.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
